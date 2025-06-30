@@ -2,8 +2,8 @@
 console.log('🚀 Opdracht 3.2: Input Cleaning');
 
 function schoonInput(input) {
-    // TODO: Verwijder spaties en zet om naar kleine letters
-    return /* jouw code hier */;
+    // Verwijder spaties aan het begin en einde en zet om naar kleine letters
+    return input.trim().toLowerCase();
 }
 
 // Test de functie
