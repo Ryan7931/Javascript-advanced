@@ -15,7 +15,7 @@ Local Storage is een manier om data op te slaan in de browser van de gebruiker. 
 
 ```jsx
 // Data opslaan
-localStorage.setItem('gebruikersnaam', 'jan123');
+localStorage.setItem('gebruikersnaam', 'jan123');  
 
 // Data ophalen
 const gebruiker = localStorage.getItem('gebruikersnaam');
