@@ -45,4 +45,4 @@ function wisNaam() {
 }
 
 // TODO: Roep toonWelkom() aan bij pagina laden
-window.addEventListener('DOMContentLoaded', toonWelkom);
+window.addEventListener('DOMContentLoaded', toonWelkom);  
